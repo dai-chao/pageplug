@@ -1,0 +1,24 @@
+{
+  "pages": [
+    {
+      "id": "Card数据表",
+      "isDefault": true
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#C7F3F0",
+  "icon": "bicycle",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "viewerLayout": "{\"color\":\"var(--ads-color-brand)\",\"logoUrl\":\"https://cdn1.jijyun.cn/p/cache/winDeal/images/logo-jjy.svg\",\"name\":\"集简云低代码演示项目\",\"treeData\":[{\"title\":\"首页\",\"pageId\":\"64d0a8316fbfd93d5cd51029\",\"isPage\":true,\"icon\":\"location-o\"},{\"title\":\"列表\",\"pageId\":\"64d0a93c6fbfd93d5cd51030\",\"isPage\":true,\"icon\":\"like-o\"}],\"outsiderTree\":[]}",
+  "deleted": false
+}

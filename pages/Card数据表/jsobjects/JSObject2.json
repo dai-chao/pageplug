@@ -1,0 +1,25 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject2",
+    "pageId": "Card数据表",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tmyFun1: () => {\n\t\t//write code here\n\t},\n\tmyFun2: async () => {\n\t\t//use async-await or promises\n\t},\n\tgetTableList:()=>{\n\t\tlet data = [\n            {\n                \"table_id\": \"A0tZBVSKdGa2lkLr\",\n                \"table_name\": \"ag3407bjvelzkgxoia\",\n                \"title\": \"订单列表\",\n                \"icon\": null,\n                \"description\": null,\n                \"sort_number\": 100\n            },\n            {\n                \"table_id\": \"Df5YFZwz7G94KToh\",\n                \"table_name\": \"ag3407xfrjemqnocbs\",\n                \"title\": \"客户列表\",\n                \"icon\": null,\n                \"description\": null,\n                \"sort_number\": 100\n            },\n            {\n                \"table_id\": \"nCz0NLG4wmvsgZPI\",\n                \"table_name\": \"ag3407saljpoeknvxw\",\n                \"title\": \"商品列表\",\n                \"icon\": null,\n                \"description\": null,\n                \"sort_number\": 100\n            }\n        ];\n\t\tdata.map(item=>{\n\t\t\titem.value = item.table_id;\n\t\t\titem.label = item.title;\n\t\t})\n\t\treturn data\n\t}\n}",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Card数据表_JSObject2",
+  "deleted": false,
+  "gitSyncId": "64d0a8316fbfd93d5cd51026_64ddde0e6fbfd93d5cd54325"
+}
