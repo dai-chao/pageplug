@@ -3,6 +3,10 @@
     {
       "id": "Card数据表",
       "isDefault": true
+    },
+    {
+      "id": "页面1",
+      "isDefault": false
     }
   ],
   "viewMode": false,
