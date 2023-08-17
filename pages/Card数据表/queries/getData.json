@@ -7,7 +7,6 @@
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "sshProxyEnabled": false,
         "url": "https://api3.windeal.cn"
       },
       "invalids": [],
@@ -43,7 +42,7 @@
           "value": "qh0279qr"
         }
       ],
-      "body": "{\n\t\"user_id\": \"qh0279qr\",\n            \"company_id\": \"ag3407\",\n            \"group_id\": \"FVQNRD1685089612743025055\",\n            \"project_id\": \"ZEPJTU1685089612762279797\",\n            \"table_id\": {{Select1.filterText}},\n            \"conditions\": [],\n            \"sort\": \"\",\n            \"page_size\": 500,\n            \"page\": 0,\n}",
+      "body": "{\n\t\"user_id\": \"qh0279qr\",\n            \"company_id\": \"ag3407\",\n            \"group_id\": \"FVQNRD1685089612743025055\",\n            \"project_id\": \"ZEPJTU1685089612762279797\",\n            \"table_id\": {{Select1.selectedOptionValue}},\n            \"conditions\": [],\n            \"sort\": \"\",\n            \"page_size\": 500,\n            \"page\": 0,\n}",
       "bodyFormData": [],
       "httpMethod": "POST",
       "selfReferencingDataPaths": [],
@@ -66,7 +65,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "Select1.filterText"
+      "Select1.selectedOptionValue"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
