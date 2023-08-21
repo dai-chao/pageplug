@@ -1,0 +1,126 @@
+{
+  "unpublishedPage": {
+    "name": "页面2",
+    "slug": "2",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 790,
+          "containerStyle": "none",
+          "snapRows": 78,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 71,
+          "minHeight": 790,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "children": [
+            {
+              "boxShadow": "none",
+              "widgetName": "IconButton1",
+              "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+              "displayName": "图标按钮",
+              "iconSVG": "/static/media/icon.1a0c634ac75f9fa6b6ae7a8df882a3ba.svg",
+              "searchTags": [
+                "click",
+                "submit",
+                "icon button"
+              ],
+              "topRow": 19,
+              "bottomRow": 23,
+              "parentRowSpace": 10,
+              "type": "ICON_BUTTON_WIDGET",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 19.8125,
+              "leftColumn": 13,
+              "dynamicBindingPathList": [
+                {
+                  "key": "buttonColor"
+                },
+                {
+                  "key": "borderRadius"
+                }
+              ],
+              "isDisabled": false,
+              "key": "totud73s17",
+              "isDeprecated": false,
+              "rightColumn": 17,
+              "iconName": "plus",
+              "widgetId": "jmi7h6nqp6",
+              "isVisible": true,
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "buttonVariant": "PRIMARY"
+            },
+            {
+              "boxShadow": "none",
+              "widgetName": "IconButton2",
+              "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+              "displayName": "图标按钮",
+              "iconSVG": "/static/media/icon.1a0c634ac75f9fa6b6ae7a8df882a3ba.svg",
+              "searchTags": [
+                "click",
+                "submit",
+                "icon button"
+              ],
+              "topRow": 20,
+              "bottomRow": 24,
+              "parentRowSpace": 10,
+              "type": "ICON_BUTTON_WIDGET",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 19.8125,
+              "leftColumn": 28,
+              "dynamicBindingPathList": [
+                {
+                  "key": "buttonColor"
+                },
+                {
+                  "key": "borderRadius"
+                }
+              ],
+              "isDisabled": false,
+              "key": "totud73s17",
+              "isDeprecated": false,
+              "rightColumn": 32,
+              "iconName": "plus",
+              "widgetId": "x55rddsj0n",
+              "isVisible": true,
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "buttonVariant": "PRIMARY"
+            }
+          ]
+        },
+        "layoutOnLoadActions": [],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "页面2",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": []
+  },
+  "deleted": false,
+  "gitSyncId": "64d0a8316fbfd93d5cd51026_64e31d906fbfd93d5cd55e04"
+}

@@ -1,0 +1,110 @@
+{
+  "unpublishedPage": {
+    "name": "页面3",
+    "slug": "3",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 780,
+          "containerStyle": "none",
+          "snapRows": 78,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 71,
+          "minHeight": 790,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "children": [
+            {
+              "widgetName": "Divider1",
+              "thickness": 2,
+              "displayName": "分隔线",
+              "iconSVG": "/static/media/icon.cbe8f608ca868e1eb44607e5fbd4a9e5.svg",
+              "searchTags": [
+                "line",
+                "divider"
+              ],
+              "topRow": 11,
+              "bottomRow": 15,
+              "parentRowSpace": 10,
+              "type": "DIVIDER_WIDGET",
+              "capType": "nc",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 19.8125,
+              "leftColumn": 5,
+              "dynamicBindingPathList": [],
+              "key": "lnp5b847qy",
+              "dividerColor": "#858282",
+              "orientation": "horizontal",
+              "strokeStyle": "solid",
+              "isDeprecated": false,
+              "rightColumn": 25,
+              "widgetId": "sq44dgg0og",
+              "capSide": 0,
+              "isVisible": true,
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false
+            },
+            {
+              "widgetName": "Divider2",
+              "thickness": 2,
+              "displayName": "分隔线",
+              "iconSVG": "/static/media/icon.cbe8f608ca868e1eb44607e5fbd4a9e5.svg",
+              "searchTags": [
+                "line",
+                "divider"
+              ],
+              "topRow": 34,
+              "bottomRow": 41,
+              "parentRowSpace": 10,
+              "type": "DIVIDER_WIDGET",
+              "capType": "nc",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 19.8125,
+              "leftColumn": 0,
+              "dynamicBindingPathList": [],
+              "key": "lnp5b847qy",
+              "dividerColor": "#858282",
+              "orientation": "horizontal",
+              "strokeStyle": "solid",
+              "isDeprecated": false,
+              "rightColumn": 64,
+              "widgetId": "cdnbzhx76j",
+              "capSide": 0,
+              "isVisible": true,
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false
+            }
+          ]
+        },
+        "layoutOnLoadActions": [],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "页面3",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": []
+  },
+  "deleted": false,
+  "gitSyncId": "64d0a8316fbfd93d5cd51026_64e31d9e6fbfd93d5cd55e07"
+}

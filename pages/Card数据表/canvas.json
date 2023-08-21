@@ -719,7 +719,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Card数据表_getTableList",
               "name": "getTableList",
               "confirmBeforeExecute": false,
               "pluginType": "API",
